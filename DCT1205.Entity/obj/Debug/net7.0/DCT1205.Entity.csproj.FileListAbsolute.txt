@@ -1,0 +1,14 @@
+D:\src\C#\DCT1205\DCT1205.Entity\bin\Debug\net7.0\DCT1205.Entity.deps.json
+D:\src\C#\DCT1205\DCT1205.Entity\bin\Debug\net7.0\DCT1205.Entity.runtimeconfig.json
+D:\src\C#\DCT1205\DCT1205.Entity\bin\Debug\net7.0\DCT1205.Entity.dll
+D:\src\C#\DCT1205\DCT1205.Entity\bin\Debug\net7.0\DCT1205.Entity.pdb
+D:\src\C#\DCT1205\DCT1205.Entity\obj\Debug\net7.0\DCT1205.Entity.csproj.AssemblyReference.cache
+D:\src\C#\DCT1205\DCT1205.Entity\obj\Debug\net7.0\DCT1205.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\C#\DCT1205\DCT1205.Entity\obj\Debug\net7.0\DCT1205.Entity.AssemblyInfoInputs.cache
+D:\src\C#\DCT1205\DCT1205.Entity\obj\Debug\net7.0\DCT1205.Entity.AssemblyInfo.cs
+D:\src\C#\DCT1205\DCT1205.Entity\obj\Debug\net7.0\DCT1205.Entity.csproj.CoreCompileInputs.cache
+D:\src\C#\DCT1205\DCT1205.Entity\obj\Debug\net7.0\DCT1205.Entity.dll
+D:\src\C#\DCT1205\DCT1205.Entity\obj\Debug\net7.0\refint\DCT1205.Entity.dll
+D:\src\C#\DCT1205\DCT1205.Entity\obj\Debug\net7.0\DCT1205.Entity.pdb
+D:\src\C#\DCT1205\DCT1205.Entity\obj\Debug\net7.0\DCT1205.Entity.genruntimeconfig.cache
+D:\src\C#\DCT1205\DCT1205.Entity\obj\Debug\net7.0\ref\DCT1205.Entity.dll

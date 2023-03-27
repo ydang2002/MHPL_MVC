@@ -1,0 +1,17 @@
+D:\src\C#\DCT1205\DCT1205.Persistence\bin\Debug\net7.0\DCT1205.Persistence.deps.json
+D:\src\C#\DCT1205\DCT1205.Persistence\bin\Debug\net7.0\DCT1205.Persistence.runtimeconfig.json
+D:\src\C#\DCT1205\DCT1205.Persistence\bin\Debug\net7.0\DCT1205.Persistence.dll
+D:\src\C#\DCT1205\DCT1205.Persistence\bin\Debug\net7.0\DCT1205.Persistence.pdb
+D:\src\C#\DCT1205\DCT1205.Persistence\bin\Debug\net7.0\DCT1205.Entity.dll
+D:\src\C#\DCT1205\DCT1205.Persistence\bin\Debug\net7.0\DCT1205.Entity.pdb
+D:\src\C#\DCT1205\DCT1205.Persistence\obj\Debug\net7.0\DCT1205.Persistence.csproj.AssemblyReference.cache
+D:\src\C#\DCT1205\DCT1205.Persistence\obj\Debug\net7.0\DCT1205.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\C#\DCT1205\DCT1205.Persistence\obj\Debug\net7.0\DCT1205.Persistence.AssemblyInfoInputs.cache
+D:\src\C#\DCT1205\DCT1205.Persistence\obj\Debug\net7.0\DCT1205.Persistence.AssemblyInfo.cs
+D:\src\C#\DCT1205\DCT1205.Persistence\obj\Debug\net7.0\DCT1205.Persistence.csproj.CoreCompileInputs.cache
+D:\src\C#\DCT1205\DCT1205.Persistence\obj\Debug\net7.0\DCT1205.Persistence.csproj.CopyComplete
+D:\src\C#\DCT1205\DCT1205.Persistence\obj\Debug\net7.0\DCT1205.Persistence.dll
+D:\src\C#\DCT1205\DCT1205.Persistence\obj\Debug\net7.0\refint\DCT1205.Persistence.dll
+D:\src\C#\DCT1205\DCT1205.Persistence\obj\Debug\net7.0\DCT1205.Persistence.pdb
+D:\src\C#\DCT1205\DCT1205.Persistence\obj\Debug\net7.0\DCT1205.Persistence.genruntimeconfig.cache
+D:\src\C#\DCT1205\DCT1205.Persistence\obj\Debug\net7.0\ref\DCT1205.Persistence.dll
