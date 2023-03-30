@@ -18,7 +18,7 @@ namespace DCT1205.Services.implementation
         }
         public async Task CreateAsSync(Employee employee)
         {
-            _context.Employee.Update(employee);
+            _context.Employee.Add(employee);
             await _context.SaveChangesAsync();
         }
 
@@ -26,6 +26,12 @@ namespace DCT1205.Services.implementation
         {
             var employee = GetById(id);
             _context.Remove(employee);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task DeleteAsSync(Employee employee)
+        {
+            _context.Employee.Remove(employee);
             await _context.SaveChangesAsync();
         }
 
