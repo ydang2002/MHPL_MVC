@@ -9,8 +9,16 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\src\\C#\\DCT1205\\DCT1205\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "D:\\src\\C#\\DCT1205\\DCT1205\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\src\\C#\\DCT1205\\DCT1205\\wwwroot\\images\\Paycompute2.gif",
+      "PackagePath": "staticwebassets\\images\\Paycompute2.gif"
     },
     {
       "Id": "D:\\src\\C#\\DCT1205\\DCT1205\\wwwroot\\js\\site.js",

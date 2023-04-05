@@ -13,6 +13,7 @@ namespace DCT1205.Services
         Task UpdateById(int  id);
         Task UpdateAsSync (Employee employee);
         Task DeleteById(int id);   
+        Task DeleteAsSync (Employee employee);
         Employee GetById(int id);
         IEnumerable<Employee> GetAll(); 
 

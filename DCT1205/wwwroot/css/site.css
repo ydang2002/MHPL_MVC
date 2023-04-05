@@ -20,3 +20,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.breadcrumb-item.active {
+    color: white !important;
+}

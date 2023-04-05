@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6140X1CV7hG6+WHw/El/KTJfavL0S99PSgZsH6zwhrE=",
+  "Hash": "HHN6ul0U48q/0+A8LWzAaq1vFuVIWZuev77OS/h4zTU=",
   "Source": "DCT1205",
   "BasePath": "_content/DCT1205",
   "Mode": "Default",
@@ -1088,6 +1088,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "D:\\src\\C#\\DCT1205\\DCT1205\\wwwroot\\css\\style.css",
+      "SourceId": "DCT1205",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\src\\C#\\DCT1205\\DCT1205\\wwwroot\\",
+      "BasePath": "_content/DCT1205",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
       "Identity": "D:\\src\\C#\\DCT1205\\DCT1205\\wwwroot\\favicon.ico",
       "SourceId": "DCT1205",
       "SourceType": "Discovered",
@@ -1103,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\src\\C#\\DCT1205\\DCT1205\\wwwroot\\images\\Paycompute2.gif",
+      "SourceId": "DCT1205",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\src\\C#\\DCT1205\\DCT1205\\wwwroot\\",
+      "BasePath": "_content/DCT1205",
+      "RelativePath": "images/Paycompute2.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Paycompute2.gif"
     },
     {
       "Identity": "D:\\src\\C#\\DCT1205\\DCT1205\\wwwroot\\js\\site.js",
