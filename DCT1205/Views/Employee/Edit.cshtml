@@ -1,16 +1,16 @@
 ﻿@using DCT1205.Entity;
-@model CreateEmployeeViewModel
+@model EditEmployeeViewModel
 
 <div class="card">
     <div class="card-body">
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a asp-controller="Employee" asp-action="Index">All Employees</a></li>
-                <li class="breadcrumb-item active" aria-current="page">New Employee</li>
+                <li class="breadcrumb-item active" aria-current="page">Edit Employee</li>
             </ol>
         </nav>
         <div class="row">
-            <form method="post" asp-action="Create" enctype="multipart/form-data">
+            <form method="post" asp-action="Edit" enctype="multipart/form-data">
 
                 <div class="col-md-12 table-responsive-md">
                     <div class="form-row">

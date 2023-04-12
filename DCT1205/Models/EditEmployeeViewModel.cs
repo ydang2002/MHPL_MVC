@@ -5,6 +5,7 @@ namespace DCT1205.Models
 {
     public class EditEmployeeViewModel
     {
+        public int Id { get; set; }
         [Required(ErrorMessage = "First Name is required"), StringLength(50, MinimumLength = 2)]
         [RegularExpression(@"^[A-Z][a-zA-Z""'\s-]*$"), Display(Name = "Last Name")]
         public string FirstName { get; set; }

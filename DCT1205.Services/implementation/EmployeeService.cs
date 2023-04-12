@@ -29,10 +29,14 @@ namespace DCT1205.Services.implementation
             await _context.SaveChangesAsync();
         }
 
-        public async Task DeleteAsSync(Employee employee)
+        public async Task DeleteAsSync(int Id)
         {
-            _context.Employee.Remove(employee);
-            await _context.SaveChangesAsync();
+            var employee = GetById(Id);
+            if (employee != null)
+            {
+                _context.Employee.Remove(employee);
+                await _context.SaveChangesAsync();
+            }
         }
 
         public IEnumerable<Employee> GetAll()
