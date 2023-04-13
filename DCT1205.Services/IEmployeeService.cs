@@ -1,4 +1,5 @@
 ﻿using DCT1205.Entity;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +16,8 @@ namespace DCT1205.Services
         Task DeleteById(int id);   
         Task DeleteAsSync (int Id);
         Employee GetById(int id);
-        IEnumerable<Employee> GetAll(); 
+        IEnumerable<Employee> GetAll();
+        IEnumerable<SelectListItem> GetAllEmployeesForPayroll();
 
     }
 }

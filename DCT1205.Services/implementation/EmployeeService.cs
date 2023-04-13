@@ -1,5 +1,6 @@
 ﻿using DCT1205.Entity;
 using DCT1205.persistence;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -63,6 +64,16 @@ namespace DCT1205.Services.implementation
                 _context.Employee.Update(employee);
                 await _context.SaveChangesAsync();
             }
+        }
+
+        public IEnumerable<SelectListItem> GetAllEmployeesForPayroll()
+        {
+            var ListEmployeeForPay = _context.Employee.Select(e => new SelectListItem
+            {
+                Text = e.FullName,
+                Value = e.Id.ToString()
+            });
+            return ListEmployeeForPay;
         }
     }
 }
